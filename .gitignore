@@ -1,7 +1,7 @@
 target
 *.iml
 .idea
-.classpatch
+.classpath
 .settings
 .project
 *.class
