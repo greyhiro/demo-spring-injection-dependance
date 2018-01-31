@@ -21,6 +21,7 @@ public class TwoActionsMenu {
         int saisie = scanner.nextInt();
 
         actions.get(saisie).execute();
+        scanner.close();
     }
 
 
